@@ -62,7 +62,7 @@
 
 4. **配置API密钥**
     - 打开`WeChatBot copy.py`文件
-    - 找到OpenAI客户端初始化部分，更新API密钥和基础URL
+    - 找到OpenAI客户端初始化部分，更新API密钥和基础URL（推荐使用deepseek的api）
     - 确保使用正确的API密钥以访问大模型服务
 
 ## 配置说明
