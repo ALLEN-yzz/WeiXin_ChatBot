@@ -6,7 +6,7 @@
 
 **GitHub仓库**: [https://github.com/ALLEN-yzz/WeiXin_ChatBot](https://github.com/ALLEN-yzz/WeiXin_ChatBot)
 
-**项目文件夹**: `WX_ChatBot`
+**项目文件夹**: `WeiXin_ChatBot-main`
 
 ## 核心功能
 
