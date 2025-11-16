@@ -48,7 +48,7 @@
 1. **克隆GitHub仓库**
    ```bash
    git clone https://github.com/ALLEN-yzz/WeiXin_ChatBot.git WX_ChatBot
-   cd WX_ChatBot
+   cd WeiXin_ChatBot-main
    ```
 
 2. **安装特定版本微信**
